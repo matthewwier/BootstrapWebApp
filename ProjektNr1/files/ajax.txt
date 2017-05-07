@@ -1,0 +1,39 @@
+{
+  "data": [
+    [
+      "Europe",
+      "837,000",
+      "50",
+      "733",
+      "Russia (104.4 million)"
+    ],
+    [
+      "Asia",
+      "17,212,000",
+      "54",
+      "4010",
+      "China (1322 million)"
+    ],
+    [
+      "Africa",
+      "11,608,000",
+      "47",
+      "944",
+      "Nigeria (132 million)"
+    ],
+    [
+      "North America",
+      "9,365,000",
+      "23",
+      "523",
+      "USA (313.8 million)"
+    ],
+    [
+      "South America",
+      "6,880,000",
+      "13",
+      "381",
+      "Brazil (188.1 million)"
+    ]
+  ]
+}
